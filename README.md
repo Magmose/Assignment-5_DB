@@ -10,3 +10,4 @@ You are allowed to change the interface and DTOs, just write a small readme list
 
 ## Task 3
 In a readme, write a short explanation of your redis data model. It should be clear enough for a developer to be able to implement the same thing.
+
