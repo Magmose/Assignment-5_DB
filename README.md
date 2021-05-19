@@ -14,7 +14,9 @@ In a readme, write a short explanation of your redis data model. It should be cl
 ### Redis data model
 
 ```
-User:username
+User: set of usernames
+
+User:username:
   lastname: string
   birthday: string
   passwordHash: string
