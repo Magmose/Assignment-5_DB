@@ -24,5 +24,5 @@ User:username
   following: set of usernames
   followed: set of usernames
   
-  tweets: sorted set of tweets with milliseconds as score and message as member
+  tweets: sorted set with milliseconds as score and message as member
 ```
